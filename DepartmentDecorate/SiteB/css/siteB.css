@@ -1,0 +1,31 @@
+head {
+    background-color: blue;
+}
+
+h1 {
+    background-color:khaki;
+}
+
+body {
+    background-color:floralwhite;
+}
+
+p {
+    font-style:oblique;
+    font-size:24px;
+    font-weight:bold;
+}
+
+ul {font-size: 20px;
+    }
+
+a:hover {
+    background-color:aqua
+}
+
+table, th, td {
+    font-size:20;
+    font-weight:bold;
+    border:1px solid black;
+    
+}

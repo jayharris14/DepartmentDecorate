@@ -1,0 +1,24 @@
+head {
+    background-color: blue;
+}
+
+h1 {
+    background-color:darkkhaki;
+}
+
+body {
+    background-color:beige;
+}
+
+p {
+    font-style:oblique;
+    font-size:24px;
+    font-weight:bold;
+}
+
+ul {font-size: 20px;
+    }
+
+a:hover {
+    background-color:aqua
+}
